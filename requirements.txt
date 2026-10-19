@@ -1,0 +1,8 @@
+# Python 3.10+
+# System tool (not installed by pip): ffmpeg — see README.
+openai==3.35.1
+python-dotenv==1.2.4
+yt-dlp==2026.8.19
+yt-dlp-ejs==0.8.0   # solves YouTube's JavaScript challenges (needed for full YouTube support)
+deno==2.9.7         # JavaScript runtime that yt-dlp-ejs runs on
+requests==2.34.2    # more reliable HTTP for yt-dlp

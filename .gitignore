@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.ruff_cache/
+venv/
+.venv/
+
+# Results of your own runs (audio, transcripts, summaries)
+outputs/
+
+# Media files (never commit downloaded audio/video)
+*.mp3
+*.m4a
+*.webm
+*.wav
+*.mp4
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
