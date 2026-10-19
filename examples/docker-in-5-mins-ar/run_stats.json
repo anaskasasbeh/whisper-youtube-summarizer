@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "yRkE-1Lq0qo",
+    "title": "دوكر في 5 دقائق | Docker in 5 mins",
+    "url": "https://www.youtube.com/watch?v=yRkE-1Lq0qo",
+    "duration_sec": 195.001216086
+  },
+  "audio": {
+    "size_mb": 1.49,
+    "bitrate_kbps": 64
+  },
+  "transcript": {
+    "language": "Arabic",
+    "characters": 2865,
+    "words": 533
+  },
+  "summary": {
+    "map_requests": 0,
+    "notes_characters": 0,
+    "api_requests": 2,
+    "prompt_tokens": 2065,
+    "completion_tokens": 752
+  },
+  "models": {
+    "api_base_url": "https://api.groq.com/openai/v1",
+    "transcribe": "whisper-large-v3-turbo",
+    "summary": "openai/gpt-oss-120b",
+    "reasoning_effort": "low"
+  },
+  "timings_sec": {
+    "download": 7.91,
+    "transcribe": 15.87,
+    "summarize": 2.42,
+    "total": 26.21
+  },
+  "transcription_speed_x_realtime": 12.3,
+  "finished_at": "2026-10-19T12:07:29+00:00"
+}

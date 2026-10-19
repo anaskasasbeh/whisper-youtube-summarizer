@@ -1,0 +1,38 @@
+{
+  "video": {
+    "id": "R8_veQiYBjI",
+    "title": "GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker",
+    "url": "https://www.youtube.com/watch?v=R8_veQiYBjI",
+    "duration_sec": 1950.338966517
+  },
+  "audio": {
+    "size_mb": 14.88,
+    "bitrate_kbps": 64
+  },
+  "transcript": {
+    "language": "English",
+    "characters": 27580,
+    "words": 5019
+  },
+  "summary": {
+    "map_requests": 5,
+    "notes_characters": 7460,
+    "api_requests": 7,
+    "prompt_tokens": 9868,
+    "completion_tokens": 2953
+  },
+  "models": {
+    "api_base_url": "https://api.groq.com/openai/v1",
+    "transcribe": "whisper-large-v3-turbo",
+    "summary": "openai/gpt-oss-120b",
+    "reasoning_effort": "low"
+  },
+  "timings_sec": {
+    "download": 37.47,
+    "transcribe": 150.09,
+    "summarize": 36.4,
+    "total": 223.98
+  },
+  "transcription_speed_x_realtime": 13.0,
+  "finished_at": "2026-10-19T12:13:43+00:00"
+}
